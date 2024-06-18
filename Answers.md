@@ -1,3 +1,4 @@
+## Question 1
 ### Open your web browser:  
 
 ### Launch any web browser (e.g., Google Chrome, Microsoft Edge).  
@@ -35,3 +36,6 @@ Click "Next" after selecting your preferences.
 Launch Visual Studio Code:  
 
 Once the installation is complete, you will see a "Setup Completed" screen. Ensure the "Launch Visual Studio Code" checkbox is checked and click "Finish."  
+
+## Question 2
+
